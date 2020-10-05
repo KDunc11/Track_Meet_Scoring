@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  EventParticipant.cpp
+  FieldParticipant.cpp
+  Project 1.cpp
+  TrackParticipant.cpp
+  Generating Code...
+C:\Users\kyled\Desktop\NNU\Fall 2019\Data Structures\Project 1\Project 1\TrackParticipant.cpp(41): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\kyled\Desktop\NNU\Fall 2019\Data Structures\Project 1\Project 1\FieldParticipant.cpp(41): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\kyled\Desktop\NNU\Fall 2019\Data Structures\Project 1\Project 1\EventParticipant.cpp(55): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+  Project 1.vcxproj -> C:\Users\kyled\Desktop\NNU\Fall 2019\Data Structures\Project 1\Debug\Project 1.exe
